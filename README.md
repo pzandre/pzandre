@@ -4,6 +4,11 @@
 * Learned Python back in 2016 but began to code professionally in 2020
 * Always learning a new language/framework
 
+<br>
+<hr>
+<br>
+
+
 ## Stack
 
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
@@ -12,7 +17,11 @@
 <img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img align="left" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="postgres" src="https://img.shields.io/badge/Neo4j-000000?&style=for-the-badge&logo=neo4j&logoColor=yellow" />
+
 <br>
+<hr>
+<br>
+
 
 ## Where to find me
 
@@ -22,6 +31,9 @@
 [<img align="left" alt="steam" src="https://img.shields.io/badge/steam-000000?logo=steam&logoColor=white&style=for-the-badge" />](https://steamcommunity.com/id/vikonpz/)
 
 <br>
+<hr>
+<br>
+
 
 ## Stats
 
@@ -29,6 +41,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzandre&count_private=true&show_icons=true&theme=blue-green&hide_border=true&layout=compact" />
 
 <br>
+<hr>
+<br>
+
 
 ### PC Specs
 
