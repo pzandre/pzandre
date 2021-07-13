@@ -38,7 +38,7 @@
 
 ### PC Specs
 <div>
-<img src="https://img.shields.io/badge/AMD-Ryzen_5_3400G-ED1C24?style=for-the-badge&logo=amd&logoColor=red" />
+<img src="https://img.shields.io/badge/AMD-Ryzen_5_3400G-000000?style=for-the-badge&logo=amd&logoColor=red" />
 <img src="https://img.shields.io/badge/Corsair-16GB_3200MHz-000000?style=for-the-badge&logo=corsair&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Asus-B450_GAMING-000000?style=for-the-badge&logo=asus&logoColor=blue" />
 <img src="https://img.shields.io/badge/WD-Black_NVMe_500GB-000000?style=for-the-badge" />
