@@ -38,6 +38,9 @@
 <br>
 
 
+## My Latest Medium 761992
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andrepz/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@andrepz/0" alt="Recent Article 0"> 
+
 ### PC Specs
 <div>
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_3400G-000000?style=for-the-badge&logo=amd&logoColor=red" />
