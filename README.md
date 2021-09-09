@@ -30,16 +30,18 @@
 </div>
 <br>
 
+## My Latest Medium Story
+<div>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andrepz/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@andrepz/0" alt="Recent Article 0"> 
+</div>
+<br>
+
 ## Stats
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=pzandre&count_private=true&show_icons=true&theme=blue-green&hide_border=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pzandre&count_private=true&show_icons=true&theme=blue-green&hide_border=true&layout=compact" />
 </div>
 <br>
-
-
-## My Latest Medium 761992
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andrepz/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@andrepz/0" alt="Recent Article 0"> 
 
 ### PC Specs
 <div>
