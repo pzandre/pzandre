@@ -46,8 +46,13 @@
 ### PC Specs
 <div>
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_3400G-000000?style=for-the-badge&logo=amd&logoColor=red" />
+</br>
 <img src="https://img.shields.io/badge/Corsair-16GB_3200MHz-000000?style=for-the-badge&logo=corsair&logoColor=yellow" />
+</br>
 <img src="https://img.shields.io/badge/Asus-B450_GAMING-000000?style=for-the-badge&logo=asus&logoColor=blue" />
+</br>
 <img src="https://img.shields.io/badge/WD-Black_NVMe_500GB-000000?style=for-the-badge" />
+</br>
 <img src="https://img.shields.io/badge/Arch_Linux-OS-000000?style=for-the-badge&logo=arch-linux&logoColor=ffffff" />
+</br>
 </div>
