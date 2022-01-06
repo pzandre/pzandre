@@ -51,6 +51,6 @@
 </br>
 <img src="https://img.shields.io/badge/WD-Black_NVMe_500GB-000000?style=for-the-badge" />
 </br>
-<img src="https://img.shields.io/badge/Arch_Linux-OS-000000?style=for-the-badge&logo=arch-linux&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Pop!_OS-000000?style=for-the-badge&logo=popos&logoColor=ffffff" />
 </br>
 </div>
