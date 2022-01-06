@@ -23,10 +23,8 @@
 <div>
 <a href="https://andrepz.medium.com/"><img alt="medium" src="https://img.shields.io/badge/medium-000000?logo=medium&logoColor=white&style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/andre-h-r-perez/"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/andrepzzp"><img alt="twitter" src="https://img.shields.io/badge/twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
 <a href="https://stackoverflow.com/users/14244437/pzvkn"><img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" /></a>
 <a href="https://gitlab.com/andrepz"><img alt="gitlab" src="https://img.shields.io/badge/gitlab-5532ff?logo=gitlab&logoColor=orange&style=for-the-badge" /></a>
-<a href="https://steamcommunity.com/id/vikonpz/"><img alt="steam" src="https://img.shields.io/badge/steam-000000?logo=steam&logoColor=white&style=for-the-badge" /></a>
 </div>
 <br>
 
